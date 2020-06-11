@@ -1,7 +1,7 @@
 # blogs-oracle
 
 This repository stores my old blogs from blogs.oracle.com/vlad/ that are on the way to be deleted since I no longer blog there.
-The blog was called "Czech techie's adventures".
+The blog was called "Czech techie's adventures" with subtitle "Solaris serviceability and nifty tools".
 
 Most of these blogs contain outdated information however these are sort of important for me personally because they contain
 tidbits of what I was up to during these times.
