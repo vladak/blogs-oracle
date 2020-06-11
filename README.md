@@ -29,3 +29,7 @@ ls *.extract | while read f; do cat `echo $f | sed 's/\.extract/\.header/'` $f |
 mkdir ../new
 ls *.new | while read f; do cp $f ../new/`echo $f | sed 's/\.new/\.html/'`; done
 ```
+
+## Images and resources
+
+The images I downloaded by hand as there was only handful of them and automation (e.g. via beautifulsoup would not pay off). The other resources (scripts, PDF presentations) were lost in the transition to Oracle blogs.
