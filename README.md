@@ -1,5 +1,9 @@
 # blogs-oracle
-my old blogs from blogs.oracle.com/vlad/
+
+This repository stores my old blogs from blogs.oracle.com/vlad/ that are on the way to be deleted since I no longer blog there.
+
+Most of these blogs contain outdated information however these are sort of important for me personally because they contain
+tidbits of what I was up to during these times.
 
 ## Getting the blogs
 
