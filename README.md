@@ -33,3 +33,10 @@ ls *.new | while read f; do cp $f ../new/`echo $f | sed 's/\.new/\.html/'`; done
 ## Images and resources
 
 The images I downloaded by hand as there was only handful of them and automation (e.g. via beautifulsoup would not pay off). The other resources (scripts, PDF presentations) were lost in the transition to Oracle blogs.
+
+## Comments
+
+some of the blogs had comments that were lost. Some of them might have been valuable to me back in the day like this one on coloring dtrace output:
+
+> Adam Leventhal Monday, June 18, 2007
+> Very cool! You might take a look at <a href="http://blogs.sun.com/ahl/entry/open_sourcing_the_javaone_keynote" rel="nofollow">this blog post</a> I made a couple of years ago about a script I used during the JavaOne keynote in which I used VT100 escape sequences to colorize the output.
